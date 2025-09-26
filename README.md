@@ -26,8 +26,7 @@ A **Pokédex** é um projeto simples desenvolvido em **JavaScript, HTML e CSS** 
 
 Acesse a Pokédex diretamente pelo link da GitHub Pages:
 
-🔗 https://juliamenezesf.github.io/Pokedex/
-
+🔗 https://pokedex-three-henna.vercel.app/
 ---
 
 <p align="center">
